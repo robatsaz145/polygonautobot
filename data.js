@@ -2,11 +2,11 @@ module.exports = {
 
     mongoLink:'',//database link
     
-    bot_token:'',//bot token
+    bot_token:'5278707683:AAF9IoZnHlDr43e2A8ZQM5OHy22WHKBVTX8',//bot token
     
-    bot_name:'PolygonCustomAutoPaybyHyperbot',//bot username without @
+    bot_name:'Polygoonbbot',//bot username without @
     
-    bot_admin:1915849115,// admin telegram id
+    bot_admin:5284364302,// admin telegram id
     
     channelsList : ['@'],// channels list
     
