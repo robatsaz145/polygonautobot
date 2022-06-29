@@ -1,14 +1,14 @@
 module.exports = {
 
-    mongoLink:'',//database link
+    mongoLink:'mongodb+srv://cluster0.nt676.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority',//database link
     
-    bot_token:'5278707683:AAF9IoZnHlDr43e2A8ZQM5OHy22WHKBVTX8',//bot token
+    bot_token:'5596602482:AAHhd1tRwOZTcdkwAE24q7Zhoz05i02RxvI',//bot token
     
-    bot_name:'Polygoonbbot',//bot username without @
+    bot_name:'Fifjfififbot',//bot username without @
     
     bot_admin:5284364302,// admin telegram id
     
-    channelsList : ['@'],// channels list
+    channelsList : ['@vvuvuviv'],// channels list
     
     reffer_bonus:5,// refferal bonus amount
     
@@ -16,14 +16,14 @@ module.exports = {
     
     daily_bonus:100,// daily bonus amount
     
-    currency:'', //bot currency
+    currency:'testt', //bot currency
     
-    contractaddress :  '', //contract address of coin
+    contractaddress :  '0x43a927aa7927fce2588025cccb13a8fd0632c059', //contract address of coin
     
-    privateKey : '', //private key of wallet
+    privateKey : '03d0fbc7d8633d1021aa2af3c0f2a5220e9fc2ef2185b2444f15d2cc7b30338a', //private key of wallet
     
-    address : '',//polygon address of wallet
+    address : '0x0d133ce1f292C8f41674b1ac79fbB630a7230f03',//polygon address of wallet
     
-    payment_channel:'@'// payment channel username
+    payment_channel:'@vvuvuviv'// payment channel username
     
     }
