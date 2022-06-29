@@ -1,6 +1,6 @@
 module.exports = {
 
-    mongoLink:'mongodb+srv://cluster0.nt676.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority',//database link
+    mongoLink:'mongodb+srv://Ahhkkhb_dge4t:ZMA1aEjVh1Q1nTsD@cluster0.nt676.mongodb.net/?retryWrites=true&w=majority',//database link
     
     bot_token:'5596602482:AAHhd1tRwOZTcdkwAE24q7Zhoz05i02RxvI',//bot token
     
