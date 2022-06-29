@@ -8,7 +8,7 @@ module.exports = {
     
     bot_admin:5284364302,// admin telegram id
     
-    channelsList : ['@vvuvuviv'],// channels list
+    channelsList : ['vvuvuviv'],// channels list
     
     reffer_bonus:5,// refferal bonus amount
     
@@ -24,6 +24,6 @@ module.exports = {
     
     address :'0x0d133ce1f292C8f41674b1ac79fbB630a7230f03',//polygon address of wallet
     
-    payment_channel:'@vvuvuviv'// payment channel username
+    payment_channel:'vvuvuviv'// payment channel username
     
     }
